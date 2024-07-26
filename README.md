@@ -1,1 +1,1 @@
-
+Passman App bir şifre yöneticisidir. Kullanıcının verilerini internetsiz bir şekilde lokalde şifreleyerek saklamasını ve browserlarda yada uygulamalarda kullanmasını amaçlar. Kullanıcı mahremiyetini önemser ve veri toplamaz. Çokulu cihazlarda kullanımda verilerin aktarılması konusunda Bluetooth ve AWS üzerinden yazdığım küçük bir backend işlemiyle yapmayı planlıyor-dum. Hilt, room, coroutines, autofill services gibi teknolojileri kullandım. Umarım faydalanan insanlar olur. 
